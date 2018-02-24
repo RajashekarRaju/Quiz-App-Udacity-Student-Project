@@ -1,0 +1,140 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quiz Tech</string>
+
+    <string name="enter_your_answer">Enter Your Answer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Question 1/10-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">Choose the latest version in Android OS.</string>
+
+    <!--Answers to the question 1/10-->
+    <string name="nougat">Nougat</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="oreo">Oreo</string>
+    <string name="marshmalow">Marshmalow</string>
+
+    <!--Question 2/10-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">Which of the following is video watching platform ?</string>
+
+    <!--Answers to the question 2/10-->
+    <string name="adsense">Adsense</string>
+    <string name="youtube">Youtube</string>
+    <string name="admob">Admob</string>
+    <string name="analytics">Analytics</string>
+
+    <!--Question 3/10-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">Which company developed the Android Operating System ?</string>
+
+    <!--Answers to the question 3/10-->
+    <string name="google">Google</string>
+    <string name="apple">Apple</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="sony">Sony</string>
+
+    <!--Question 4/10-->
+    <string name="num_question_4">Question 4</string>
+    <string name="question_4" >".MOV" extension refers usually to
+        what king of file ?</string>
+
+    <!--Answers to the question 4/10-->
+    <string name="image_file">Image File</string>
+    <string name="movie_file">Animation/Movie File</string>
+    <string name="audio_file">Audio File</string>
+    <string name="ms_office_document">MS Office Document</string>
+
+    <!--Question 5/10-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5" >OS Computer abbreviation usually stands for ?</string>
+
+    <!--Answers to the question 5/10-->
+    <string name="order_of_significance">Order of Significance</string>
+    <string name="open_software">Open Software</string>
+    <string name="optical_sensor">Optical Sensor</string>
+    <string name="operating_system">Operating System</string>
+
+    <!--Question 6/10-->
+    <string name="num_question_6">Question 6</string>
+    <string name="question_6" >Select all correct input devices.</string>
+
+    <!--Answers to the question 6/10-->
+    <string name="mouse">Mouse</string>
+    <string name="keyboard">Key Board</string>
+    <string name="monitor">Monitor</string>
+    <string name="joystick">Joystick</string>
+
+    <!--Question 7/10-->
+    <string name="num_question_7">Question 7</string>
+    <string name="question_7" >Select all correct Web Search Engines.</string>
+
+    <!--Answers to the question 7/10-->
+    <string name="google_chrome">Google Chrome</string>
+    <string name="windows">Windwos</string>
+    <string name="mozilla_firefox">Mozilla Firefox</string>
+    <string name="yahoo">Yahoo</string>
+
+    <!--Question 8/10-->
+    <string name="num_question_8">Question 8</string>
+    <string name="question_8" >Select the google products.</string>
+
+    <!--Answers to the question 8/10-->
+    <string name="pixel">Pixel</string>
+    <string name="duo">Duo</string>
+    <string name="ios">IOS</string>
+    <string name="linux">Linux</string>
+
+    <!--Question 9/10-->
+    <string name="num_question_9">Question 9</string>
+    <string name="question_9" >Select the products related to Sony.</string>
+
+    <!--Answers to the question 9/10-->
+    <string name="bravia">Bravia</string>
+    <string name="xperia">Xperia</string>
+    <string name="vaio">Vaio</string>
+    <string name="play_station">Play Station</string>
+
+    <!--Question 10/10-->
+    <string name="num_question_10">Question 10</string>
+    <string name="question_10" >Which software is used to develop android apps ?</string>
+
+    <!--Answers to the question 10/10-->
+    <string name="answer_10">Android Studio</string>
+
+    <string name="editchoose">
+        Choose the right one from below.
+        Visual Studio\n
+        Android Studio\n
+        Unity\n
+        Asset Studio\n
+    </string>
+
+    <!--Button "End Test"-->
+    <string name="end_test">Submit</string>
+
+    <!--Test Result-->
+    <string name="test_result_name">"Name: "</string>
+    <string name="test_result">Quiz Result</string>
+    <string name="test_result_score">"Score: "</string>
+    <string name="question_1_10">Question 1/10</string>
+    <string name="question_2_10">Question 2/10</string>
+    <string name="question_3_10">Question 3/10</string>
+    <string name="question_4_10">Question 4/10</string>
+    <string name="question_5_10">Question 5/10</string>
+    <string name="question_6_10">Question 6/10</string>
+    <string name="question_7_10">Question 7/10</string>
+    <string name="question_8_10">Question 8/10</string>
+    <string name="question_9_10">Question 9/10</string>
+    <string name="question_10_10">Question 10/10</string>
+    <string name="nothing" />
+    <string name="reset">reset</string>
+    <string name="rajashekar">Rajashekar</string>
+    <string name="rajashekarraju123_gmail_com">rajashekarraju123@gmail.com</string>
+    <string name="about">About</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+
+</resources>
